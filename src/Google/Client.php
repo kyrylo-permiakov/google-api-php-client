@@ -22,7 +22,7 @@ namespace customGoogle;
  * The Google API Client
  * https://github.com/google/google-api-php-client
  */
-class Google_Client
+class Client
 {
   const LIBVER = "1.1.5";
   const USER_AGENT_SUFFIX = "google-api-php-client/";
