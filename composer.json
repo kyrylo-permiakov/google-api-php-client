@@ -1,5 +1,5 @@
 {
-    "name": "kyrylo-permiakov/google/apiclient",
+    "name": "kyrylo-permiakov/google-apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
