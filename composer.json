@@ -13,7 +13,7 @@
         "squizlabs/php_codesniffer": "~2.3"
     },
     "autoload": {
-        "psr-0": { "customGoogle": "./src/Google" }
+        "psr-0": { "customGoogle\\": "src/Google/" }
     },
     "extra": {
         "branch-alias": {
